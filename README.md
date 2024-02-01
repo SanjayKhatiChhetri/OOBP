@@ -57,7 +57,7 @@ Play Video
 
 > 8.1.2024 Lesson 1
 >
-> - [datatype slides](resource\1_Datatypes.pdf)
+> - [datatype slides](https://github.com/SanjayKhatiChhetri/OOBP/blob/main/resource/1_Datatypes.pdf)
 
 > 11.1.2024 Lesson 2
 >
