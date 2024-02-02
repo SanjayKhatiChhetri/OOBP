@@ -61,16 +61,16 @@ Play Video
 
 > 11.1.2024 Lesson 2
 >
-> - OOBP Principles slides,
-> - JS Objects and exercises
+> - [OOBP Principles slides](https://github.com/SanjayKhatiChhetri/OOBP/blob/main/resource/2_OOBP%20Paradigm%20and%20principles.pdf),
+> - [JS Objects and exercises](https://github.com/SanjayKhatiChhetri/OOBP/blob/main/resource/JS%20Objects.pdf)
 
 > 19.1.2024
 >
-> - Typescript slides
+> - [Typescript slides](https://github.com/SanjayKhatiChhetri/OOBP/blob/main/resource/Typescript.pdf)
 
 > 29.1.2024
 >
-> - Food + Refrigerator exercise instructions
+> - [Food + Refrigerator exercise instructions](https://github.com/SanjayKhatiChhetri/OOBP/blob/main/resource/2_JS%20Objects.pdf)
 
 ## Weekly Exercises
 
@@ -88,5 +88,5 @@ Assignment tutorial video:https://oamk-my.sharepoint.com/:v:/g/personal/lassehav
 | Reading and using objects | https://classroom.github.com/a/T4LiXZ6B | 17.1.2024 09:00  |
 | Typescript + Classes      | https://classroom.github.com/a/XAJzESR  | d26.1.2024 09:00 |
 | Objects storing objects   | https://classroom.github.com/a/yp5YStFM | 06.02.2024 12:00 |
-| Filter and Map methods    | https://classroom.github.com/a/6ZQZQZ4- | 06.02.2024 12:00 |
-| DOM operations            | https://classroom.github.com/a/6ZQZQZ4- | 06.02.2024 12:00 |
+| Filter and Map methods    |                                         | 06.02.2024 12:00 |
+| DOM operations            |                                         | 06.02.2024 12:00 |
